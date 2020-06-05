@@ -30,6 +30,15 @@
     <ClInclude Include="Resource.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="graphcutimpl.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="maxflow-v3.01\graph.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="maxflow-v3.01\block.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="GraphCut.cpp">
@@ -39,6 +48,15 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="graphcutimpl.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="maxflow-v3.01\graph.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="maxflow-v3.01\maxflow.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
