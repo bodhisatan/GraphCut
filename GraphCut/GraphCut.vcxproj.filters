@@ -39,6 +39,9 @@
     <ClInclude Include="maxflow-v3.01\block.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="grabcutimpl.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="GraphCut.cpp">
@@ -57,6 +60,9 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="maxflow-v3.01\maxflow.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="grabcutimpl.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

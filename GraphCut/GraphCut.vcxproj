@@ -183,6 +183,7 @@
     </ResourceCompile>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="grabcutimpl.h" />
     <ClInclude Include="GraphCut.h" />
     <ClInclude Include="GraphCutDlg.h" />
     <ClInclude Include="graphcutimpl.h" />
@@ -193,6 +194,7 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="grabcutimpl.cpp" />
     <ClCompile Include="GraphCut.cpp" />
     <ClCompile Include="GraphCutDlg.cpp" />
     <ClCompile Include="graphcutimpl.cpp" />
