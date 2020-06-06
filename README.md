@@ -1,0 +1,2 @@
+# GraphCut
+MFC配合OpenCV实现的抠图工具，算法为graphcut和grabcut
